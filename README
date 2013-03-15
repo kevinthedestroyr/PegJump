@@ -1,0 +1,3 @@
+Implementation of the classic triangular peg jump
+solitaire game using C++ and the SDL library.
+Must install SDL and link to compile.

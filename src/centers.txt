@@ -1,0 +1,12 @@
+						(320,120)
+				(274, 194)	(363, 194)
+		(230, 268)		(320, 268)		(409, 268)
+	(186,342)	(274,342)	(363,342)		(452,342)
+(142,416)	(230,416)	(320,416)	(363,416)	(498,416)
+
+all numbers taken at center of hole
+
+downward: start 120, add 74 per row
+right, same row: 89px spacing
+
+radius of holes: 15px
