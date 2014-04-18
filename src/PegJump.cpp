@@ -19,7 +19,7 @@ using std::cerr;
 
 #define TOP_PEG_Y	120 // pixels
 #define ROW_SPACING	74 // pixels
-#define COL_SPACING 89
+#define COL_SPACING 84
 #define CENTER_COL	320
 
 #define PLAY_ON 	0
